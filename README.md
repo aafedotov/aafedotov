@@ -1,4 +1,4 @@
-- 👋 Hi, I’m from Russia, Nizhni Novgorod, my name is Andrey Fedotov and i'm 33
+- 👋 Hi, I’m from Russia, Nizhni Novgorod, my name is Andrey Fedotov and i'm 34
 - 👀 I’m interested in everything about IT
 - 🌱 I’m currently learning backend development in Python
 - 📫 How to reach me. Telegram: @fedotov_aa
