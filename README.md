@@ -1,5 +1,8 @@
-- I’m from Russia, Nizhni Novgorod, my name is Andrey Fedotov
-- I’m currently learning backend development in Python
+- I’m from Russia, Moscow, my name is Andrey Fedotov
+currently learning:
+
+backend development in Python (django, fastAPI, flask);
+frontend development (React).
    
 
 Contact me:
